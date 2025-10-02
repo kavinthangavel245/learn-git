@@ -21,3 +21,13 @@ button {
 button:hover {
   background: #395377;
 }
+
+/* 🌙 Dark Mode */
+.dark {
+  background: #1e1e1e;
+  color: #f4f4f9;
+}
+
+.dark h1 {
+  color: #EA5083;
+}
